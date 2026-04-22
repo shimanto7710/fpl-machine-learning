@@ -1,0 +1,22 @@
+{
+  "feature_columns": [
+    "opponent_strength",
+    "my_team_strength",
+    "was_home",
+    "creativity_prev_3_mean",
+    "ict_index_prev_3_mean",
+    "ict_index_prev_all_mean",
+    "influence_prev_3_mean",
+    "influence_prev_all_mean",
+    "minutes_prev_3_mean",
+    "minutes_prev_5_mean",
+    "minutes_prev_all_mean",
+    "threat_prev_3_mean",
+    "total_points_prev_3_mean",
+    "total_points_prev_5_mean",
+    "total_points_prev_all_mean",
+    "assists_prev_3_same_opponent_mean",
+    "goals_scored_prev_3_same_opponent_mean",
+    "form"
+  ]
+}
