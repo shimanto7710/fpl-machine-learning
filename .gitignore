@@ -1,0 +1,13 @@
+# macOS / Python
+.DS_Store
+__pycache__/
+*.pyc
+
+# Local environment
+.venv/
+.env
+
+# Large local data artifacts (too large for regular GitHub push)
+fpl_data.db
+fpl_final.csv
+fpl_final_with_images.csv
